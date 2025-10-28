@@ -1,0 +1,17 @@
+do file node_modules lớn quá nên em không up trực tiếp lên được nên trước khi chạy dự án thì tạo file node_modules giúp em ạ
+bài chạy hoàn toàn bình thường ạ, khi đăng nhập bằng tk user sẽ chuyển về trang not found do chưa thêm hoạt động người dùng vào còn khi đăng nhập bằng admin sẽ chuyển sang trang dashboard
+chạy sever trước sau đó chạy npm run dev để trang hoạt động bình thường ạ
+
+日本語:
+node_modules フォルダが大きすぎて直接アップロードできませんでした。
+そのため、プロジェクトを実行する前に node_modules フォルダを作成（＝依存パッケージをインストール） してください。
+
+この課題は正常に動作します。
+
+ユーザーアカウントでログインすると、ユーザー機能がまだ追加されていないため 「Not Found」ページに遷移します。
+
+管理者アカウント（admin）でログインすると、ダッシュボードページに遷移します。
+
+実行手順は以下の通りです：
+1️⃣ まずサーバーを起動します。
+2️⃣ 次に、npm run dev を実行すると、ページが正常に動作します。
