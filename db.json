@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nguyễn Văn A",
+      "email": "a@example.com",
+      "password": "password123",
+      "birth": "1990-01-01",
+      "role": "admin",
+      "status": "active"
+    },
+    {
+      "name": "Trần Thị B",
+      "email": "b@example.com",
+      "birth": "1992-02-02",
+      "status": "active",
+      "role": "user",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Lê Văn C",
+      "email": "c@example.com",
+      "password": "password123",
+      "birth": "1993-03-03",
+      "role": "user",
+      "status": "inactive"
+    },
+    {
+      "id": "4",
+      "name": "Phạm Thị D",
+      "email": "d@example.com",
+      "password": "password123",
+      "birth": "1994-04-04",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "id": "5",
+      "name": "Hoàng Văn E",
+      "email": "e@example.com",
+      "password": "password123",
+      "birth": "1995-05-05",
+      "role": "user",
+      "status": "inactive"
+    },
+    {
+      "id": "6",
+      "name": "Đặng Thị F",
+      "email": "f@example.com",
+      "password": "password123",
+      "birth": "1996-06-06",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "name": "Bùi Văn G",
+      "email": "m@example.com",
+      "password": "password123",
+      "birth": "1997-07-07",
+      "status": "inactive",
+      "role": "user",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "name": "Đỗ Thị H",
+      "email": "h@example.com",
+      "password": "password123",
+      "birth": "1998-08-08",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "id": "9",
+      "name": "Ngô Văn I",
+      "email": "i@example.com",
+      "password": "password123",
+      "birth": "1999-09-09",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "id": "10",
+      "name": "Vũ Thị J",
+      "email": "j@example.com",
+      "password": "password123",
+      "birth": "2000-10-10",
+      "role": "user",
+      "status": "inactive"
+    },
+    {
+      "id": "11",
+      "name": "Mai Văn K",
+      "email": "k@example.com",
+      "password": "password123",
+      "birth": "1988-11-11",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "name": "Hồ Thị L",
+      "email": "m@example.com",
+      "password": "password123",
+      "birth": "1989-12-12",
+      "status": "inactive",
+      "role": "user",
+      "id": "12"
+    },
+    {
+      "id": "13",
+      "name": "Lâm Văn M",
+      "email": "m@example.com",
+      "password": "password123",
+      "birth": "1991-01-13",
+      "role": "user",
+      "status": "active"
+    }
+  ]
+}
